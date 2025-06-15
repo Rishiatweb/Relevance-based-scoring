@@ -1,4 +1,4 @@
-# **Beyond AUC: Re-evaluating ML Models for High-Stakes Applications (Wildfire Detection Case Study)**
+# **Beyond AUC: Re-evaluating ML Models for High-Stakes Applications in Classification based problems(Wildfire Detection Case Study)**
 
 ## **Project Overview**
 
