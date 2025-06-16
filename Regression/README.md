@@ -8,9 +8,6 @@ The core of the project is a comparative analysis of three different modeling ar
 
 **High-Stakes Context:** While not safety-critical in the same way as wildfire detection, accurately modeling patient sentiment has high stakes for pharmaceutical companies, healthcare providers, and regulatory bodies. It can influence drug development, post-market surveillance, and patient communication strategies.
 
-**Live Demo & Models:**
-*   [Link to a live demo if you deploy one using Streamlit/Gradio]
-*   [Link to the saved model files if you upload them]
 
 ---
 
